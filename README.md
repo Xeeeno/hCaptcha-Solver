@@ -13,4 +13,5 @@ Capsolver is the best hCaptcha API of the market, offer all types of hCaptcha an
 - Solving Speed ⚡ 0.02s ~ 0.5s
 
 hCaptcha Solver automated Captcha Solver bypass AI service Free 0.10$
+
 https://capsolver.com
